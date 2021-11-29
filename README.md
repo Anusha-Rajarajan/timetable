@@ -56,3 +56,7 @@ Execute the program
 
 ~~~
 # OUPUT
+![Output](.//tt.png)
+# RESULT
+Created a html page for the timetable
+
