@@ -104,6 +104,7 @@ Execute the program
 ~~~
 # OUPUT
 ![Output](.//tt.png)
+![Output](.//validator.png)
 # RESULT
 Created a html page for the timetable
 
